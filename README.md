@@ -49,3 +49,28 @@ After this modification, the ping tests were successful.
 ## Conclusion
 
 This practical exercise helped me understand the importance of correct IP addressing and how different IP networks affect communication between devices.
+
+## Screenshots
+
+
+### 1. Network Topology
+
+![Network Topology](image_2026-11-14_135732751.png)
+
+### 2. Successful Ping Between PC0 and PC1
+
+![Successful Ping PC0 to PC1](image_2026-11-14_135823742.png)
+
+### 3. Failed Ping Between PC0 and PC3
+
+![Failed Ping PC0 to PC3](image_2026-11-14_135920009.png)
+
+### 4. IP Address Modification
+
+PC3's IP address was changed to `192.168.0.3` to place it in the same network as the other PCs.
+
+![IP Address Modification](image_2026-11-14_140030005.png)
+
+### 5. Successful Ping After IP Modification
+
+![Successful Ping PC0 to PC3](image_2026-11-14_140103580.png)
